@@ -1,0 +1,1 @@
+The command grep searches files for specified words. ($grep hello hello.txt). This will print each sentance with the word "hello." Remember that grep is case sentitive. Specifying grep -i will ignore cases.
