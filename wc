@@ -1,1 +1,1 @@
-The command wc means "word count." $wc -w hannah.txt will count all of the words, lines and characters within the file. $wc -l hannah.txt will count all the lines the file has.
+The command wc means "word count." $wc -w hannah.txt will count all of the words in the file. $wc -l hannah.txt will count all the lines the file has.
