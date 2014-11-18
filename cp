@@ -1,0 +1,1 @@
+The command cp copies one file to another. It makes a copy of file1 in current directory and calls it file2. $cp file1 file2. Unlike mv it doesn't delete file1, instead it is useful for creating backups.
